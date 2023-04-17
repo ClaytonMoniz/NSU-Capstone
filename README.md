@@ -15,6 +15,7 @@ This will take you step by step to install the game.
 1. Go to the [ZombieShooterSetup](ZombieShooterSetup) click on ***Release***. [Video](https://user-images.githubusercontent.com/118314166/232385213-7b349401-1e53-4270-80bf-662506681746.mp4) for reference.
 2. Then click on ***ZombieShooterSetup.msi*** right click on ***Download*** and then ***Save link as***. Place in a folder of your choosing repeat for ***Release/setup.exe***. [Video](https://user-images.githubusercontent.com/118314166/232386329-49e36901-3d79-455e-a689-d371df8ef32a.mp4) for reference.
 3. Then navigate to the folder you have placed both the ***ZombieShooterSetup.msi*** and the ***setup.exe*** run the ***setup.exe*** and choose the location where you want the game installed. [Video](https://user-images.githubusercontent.com/118314166/232390474-97baa562-d832-4b51-b6b3-4587808d85a1.mp4) for reference.
+4. Then simply run ***ZombieShooter.exe*** which will run the game or navigate to the desktop where a shortcut called ***ZombieShooter*** will have been automatically created and double click on it to run the game.
 ## Testing Information
 Testing was done using PyAutoGUI and by simply playing the game.
 PyAutoGUI was only used to test the StartMenu, and Information Buttons, and the GameOver CheckBox.
