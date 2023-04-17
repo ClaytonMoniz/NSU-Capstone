@@ -12,6 +12,7 @@ Game was made using C# Windows forms, and some Python for automated testing.
 7. The [LICENSE](LICENSE) File contains the MIT license.
 ## Installation Guide
 This will take you step by step to install the game.
+1. Go to the [ZombieShooterSetup](ZombieShooterSetup)
 ## Testing Information
 Testing was done using PyAutoGUI and by simply playing the game.
 PyAutoGUI was only used to test the StartMenu, and Information Buttons, and the GameOver CheckBox.
