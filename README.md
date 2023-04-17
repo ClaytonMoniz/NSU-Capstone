@@ -10,6 +10,7 @@ Game was made using C# Windows forms, and some Python for automated testing.
 5. The [ZombieShooterSetup](ZombieShooterSetup) folder contains everything that is needed for installing the game.
 6. The [testing](testing) folder contains the images and the python file used for testing with PyAutoGUI
 7. The [LICENSE](LICENSE) File contains the MIT license.
+## Installation Guide
 ## Testing Information
 Testing was done using PyAutoGUI and by simply playing the game.
 PyAutoGUI was only used to test the StartMenu, and Information Buttons, and the GameOver CheckBox.
