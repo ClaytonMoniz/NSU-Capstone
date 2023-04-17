@@ -9,3 +9,4 @@ Game was made using C# Windows forms, and some Python for automated testing.
 4. The [SourceCode](SourceCode) folder contains all of the source code for the game.
 5. The [ZombieShooterSetup](ZombieShooterSetup) folder contains everything that is needed for installing the game.
 6. The [testing](testing) folder contains the images and the python file used for testing with PyAutoGUI
+7. The []
