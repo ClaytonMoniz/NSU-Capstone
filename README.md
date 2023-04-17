@@ -18,4 +18,3 @@ After that all other testing was done by hand since the other forms share the sa
 [Here](testing) is the folder containing all the images and the python file.
 ## Assets
 All of the asset images I used are free and open source I am not a good artist so this was the best thing for me to use.
-  Here is a link to them all
