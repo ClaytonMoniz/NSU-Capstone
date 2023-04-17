@@ -14,4 +14,5 @@ Game was made using C# Windows forms, and some Python for automated testing.
 Testing was done using PyAutoGUI and by simply playing the game.
 PyAutoGUI was only used to test the StartMenu, and Information Buttons, And the GameOver CheckBox.
 It was also used to test Keyboard input for the player.
-After that all other testing was done by hand since the other forms share the same structure and it is easy enough to test by hand no further testing with PyAutoGUI was done.
+After that all other testing was done by hand since the other forms share the same structure and it was easy enough to test by hand.
+Here [testing](testing) is the folder containing all the images and the python file.
