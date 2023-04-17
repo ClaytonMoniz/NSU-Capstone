@@ -1,0 +1,72 @@
+import pyautogui
+
+pyautogui.sleep(0.5)
+information = pyautogui.locateOnScreen('information.png')
+informationCenter = pyautogui.center(information)
+pyautogui.click(informationCenter)
+
+pyautogui.sleep(0.5)
+Return = pyautogui.locateOnScreen('Return.png')
+ReturnCenter = pyautogui.center(Return)
+pyautogui.click(ReturnCenter)
+
+pyautogui.sleep(0.5)
+Start = pyautogui.locateOnScreen('Start.png')
+StartCenter = pyautogui.center(Start)
+pyautogui.click(StartCenter)
+
+
+pyautogui.keyDown(' ')
+pyautogui.press(' ')
+pyautogui.keyUp(' ')
+pyautogui.keyDown('w')
+pyautogui.press('w')
+pyautogui.keyUp('w')
+pyautogui.keyDown(' ')
+pyautogui.press(' ')
+pyautogui.keyUp(' ')
+pyautogui.keyDown('a')
+pyautogui.press('a')
+pyautogui.keyUp('a')
+pyautogui.keyDown(' ')
+pyautogui.press(' ')
+pyautogui.keyUp(' ')
+pyautogui.keyDown('s')
+pyautogui.press('s')
+pyautogui.keyUp('s')
+pyautogui.keyDown(' ')
+pyautogui.press(' ')
+pyautogui.keyUp(' ')
+pyautogui.keyDown('d')
+pyautogui.press('d')
+pyautogui.keyUp('d')
+pyautogui.keyDown(' ')
+pyautogui.press(' ')
+pyautogui.keyUp(' ')
+
+
+pyautogui.sleep(5)
+ExitGame = pyautogui.locateOnScreen('ExitGame.png')
+ExitGameCenter = pyautogui.center(ExitGame)
+pyautogui.click(ExitGameCenter)
+
+MainMenu = pyautogui.locateOnScreen('MainMenu.png')
+MainMenuCenter = pyautogui.center(MainMenu)
+pyautogui.click(MainMenuCenter)
+
+Confirm = pyautogui.locateOnScreen('Confirm.png')
+ConfirmCenter = pyautogui.center(Confirm)
+pyautogui.click(ConfirmCenter)
+
+ExitGamec = pyautogui.locateOnScreen('ExitGameChecked.png')
+ExitGamecCenter = pyautogui.center(ExitGamec)
+pyautogui.click(ExitGamecCenter)
+
+Confirm = pyautogui.locateOnScreen('Confirm.png')
+ConfirmCenter = pyautogui.center(Confirm)
+pyautogui.click(ConfirmCenter)
+
+pyautogui.sleep(1)
+Exit = pyautogui.locateOnScreen('Exit.png')
+ExitCenter = pyautogui.center(Exit)
+pyautogui.click(ExitCenter)
