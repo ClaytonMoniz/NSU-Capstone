@@ -12,7 +12,7 @@ Game was made using C# Windows forms, and some Python for automated testing.
 7. The [LICENSE](LICENSE) File contains the MIT license.
 ## Installation Guide
 This will take you step by step to install the game.
-1. Go to the [ZombieShooterSetup](ZombieShooterSetup) click on ***Release/ZombieShooterSetup.msi*** [Video](https://user-images.githubusercontent.com/118314166/232385213-7b349401-1e53-4270-80bf-662506681746.mp4) for reference. .
+1. Go to the [ZombieShooterSetup](ZombieShooterSetup) click on ***Release/ZombieShooterSetup.msi***. [Video](https://user-images.githubusercontent.com/118314166/232385213-7b349401-1e53-4270-80bf-662506681746.mp4) for reference.
 2. Then Right click on ***Download*** and then ***Save link as***. Place in a folder of your choosing repeat for ***Release/setup.exe***
 ## Testing Information
 Testing was done using PyAutoGUI and by simply playing the game.
