@@ -13,7 +13,7 @@ Game was made using C# Windows forms, and some Python for automated testing.
 ## Installation Guide
 This will take you step by step to install the game.
 1. Go to the [ZombieShooterSetup](ZombieShooterSetup) click on Release/ZombieShooterSetup.msi Right click on Download and then save as in a folder of your choosing.
-[This] video goes shows the entire process of installation(https://user-images.githubusercontent.com/118314166/232379111-b785ed0f-662c-4f84-bc30-98c155a490cd.mp4)
+[This](https://user-images.githubusercontent.com/118314166/232379111-b785ed0f-662c-4f84-bc30-98c155a490cd.mp4) video goes shows the entire process of installation
 ## Testing Information
 Testing was done using PyAutoGUI and by simply playing the game.
 PyAutoGUI was only used to test the StartMenu, and Information Buttons, and the GameOver CheckBox.
