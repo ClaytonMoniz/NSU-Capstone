@@ -13,7 +13,7 @@ Game was made using C# Windows forms, and some Python for automated testing.
 ## Installation Guide
 This will take you step by step to install the game.
 1. Go to the [ZombieShooterSetup](ZombieShooterSetup) click on Release/ZombieShooterSetup.msi Right click on Download and then save as in a folder of your choosing.
-[This](https://user-images.githubusercontent.com/118314166/232379111-b785ed0f-662c-4f84-bc30-98c155a490cd.mp4) video goes shows the entire process of installation
+[This](Uploading Desktop 2023.04.16 - 23.52.07.07.mp4…) video goes shows the entire process of installation
 ## Testing Information
 Testing was done using PyAutoGUI and by simply playing the game.
 PyAutoGUI was only used to test the StartMenu, and Information Buttons, and the GameOver CheckBox.
@@ -28,3 +28,7 @@ All of the asset images I used are free and open source I am not a good artist s
   - [Low Level Zombie, Player Character, Ammo Icon](https://www.mooict.com/c-tutorial-create-a-zombie-survival-shooting-game-in-visual-studio/)
   - [Door and key Image](https://www.mooict.com/c-tutorial-make-a-multiple-level-game-in-windows-form-application/)
   - [Boss level Zombie](https://opengameart.org/content/animated-top-down-zombie)
+
+
+
+
