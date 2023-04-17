@@ -18,7 +18,7 @@ After that all other testing was done by hand since the other forms share the sa
 [Here](testing) is the folder containing all the images and the python file.
 ## Assets
 All of the asset images I used are free and open source I am not a good artist so this was the best thing for me to use.
-- Here are links to all the assets.
+- Here are links to all the assets the can also be gound in [this](Links_For_Assets) folder.
   - [Health Pickup Icon](https://fightswithbears.itch.io/2d-health-and-ammo-pickups)
   - [Higher Level Zombie](https://tokka.itch.io/top-down-basic-set)
   - [Low Level Zombie, Player Character, Ammo Icon](https://www.mooict.com/c-tutorial-create-a-zombie-survival-shooting-game-in-visual-studio/)
