@@ -13,7 +13,7 @@ Visual studio was used for developing the game and visual studio code was used f
 7. The [LICENSE](LICENSE) File contains the MIT license.
 ## Installation Guide
 This will take you step by step to install the game.
-1. Go to the [ZombieShooterSetup](ZombieShooterSetup) folder right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a folder of your choosing do the same for ***setup.exe***.
+1. Go to the [ZombieShooterSetup](ZombieShooterSetup) folder right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a folder of your choosing do the same for ***setup.exe*** make sure they are ***both in the same folder***.
 
 https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a-8559-4d326cc74f78.mp4
 
