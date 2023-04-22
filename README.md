@@ -31,5 +31,3 @@ All of the asset images I used are free and open source I am not a good artist s
   - [Door and key Image](https://www.mooict.com/c-tutorial-make-a-multiple-level-game-in-windows-form-application/)
   - [Boss level Zombie](https://opengameart.org/content/animated-top-down-zombie)
 
-
-https://user-images.githubusercontent.com/118314166/232385213-7b349401-1e53-4270-80bf-662506681746.mp4
