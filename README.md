@@ -16,7 +16,7 @@ This will take you step by step to install the game.
 
 https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a-8559-4d326cc74f78.mp4
 
-3. Then navigate to the folder you have placed both the ***ZombieShooterSetup.msi*** and the ***setup.exe*** run the ***setup.exe*** and choose the location where you want the game installed. 
+2. Then navigate to the folder you have placed both the ***ZombieShooterSetup.msi*** and the ***setup.exe*** run the ***setup.exe*** and choose the location where you want the game installed. 
 
 https://user-images.githubusercontent.com/118314166/233804146-62898ed8-11e6-4e46-928d-0f38ebb560e9.mp4
 
