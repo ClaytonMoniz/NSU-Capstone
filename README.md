@@ -1,8 +1,13 @@
 # NSU-Capstone - Zombie Shooter Game
 ## Description
-Short game where you fight zombies that get harder as you progress through the levels.
-Game was made using C# Windows forms, and some Python PyAutoGUI for automated testing.
-Visual studio was used for developing the game and visual studio code was used for testing. 
+- Short game where you fight zombies that get harder as you progress through the levels.
+- Collect the key that spawns to transition to the next level.
+- Collect ammo when you are our out to continue fighting.
+- Collect health pickup when health is low to restore health.
+- Defeat the final boss to finish the game.
+### What was used in development
+- Visual studio - C# and windows forms used to create the game.
+- Microsoft visual studio installer project - Visual studio extension used to create installer.
 ## Folder Layout
 1. The [Documents](Documents) folder contains the project proposal.
 2. The [Links_For_Assets](Links_For_Assets) folder contains all the links to the free images I used to make the game.
