@@ -22,11 +22,24 @@ https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a
 https://user-images.githubusercontent.com/118314166/233804146-62898ed8-11e6-4e46-928d-0f38ebb560e9.mp4
 
 3. Then simply navigate to the location you installed the game run ***ZombieShooter.exe*** which will run the game or navigate to the desktop where a shortcut called ***ZombieShooter*** will have been automatically created and double click on it to run the game.
+### If it did not work
+If it did not install or work properly follow the steps again and ***MAKE SURE THESE ARE TRUE***
+- ***BOTH*** the ***ZombieShooterSetup.msi*** and ***setup.exe*** are in the same folder.
+- Run the ***setup.exe*** ***NOT*** the ***ZombieShooterSetup.msi***
+- I you placed the setup files in the same folder you installed the game to make sure you ***run ZombieShooter.exe to start the game NOT setup.exe***
 ## Testing Information
-Testing was done using PyAutoGUI and by simply playing the game.
-PyAutoGUI was only used to test the StartMenu, and Information Buttons, and the GameOver CheckBox.
-It was also used to test Keyboard input for the player.
-After that all other testing was done by hand since the other forms share the same structure and it was easy enough to test by hand.
+### How testing was done
+- Testing was done using PyAutoGUI and by simply playing the game.
+- PyAutoGUI was only used to test inputs and buttons on the StartMenu, Information page, and first level.
+- No further testing was done with PyAutoGUI as the other forms shared the same structure and it was easy to test manually.
+### Testing results
+- All key inputs work
+- All Buttons Work
+- All Form transitions work
+- All damage is properly calculated
+- All enemies are spawning
+- All interactions work
+
 [Here](testing) is the folder containing all the images and the python file.
 ## Assets
 All of the asset images I used are free and open source I am not a good artist so this was the best thing for me to use.
