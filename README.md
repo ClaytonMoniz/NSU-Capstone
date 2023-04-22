@@ -12,7 +12,7 @@ Game was made using C# Windows forms, and some Python for automated testing.
 7. The [LICENSE](LICENSE) File contains the MIT license.
 ## Installation Guide
 This will take you step by step to install the game.
-1. Go to the [ZombieShooterSetup](ZombieShooterSetup) right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a location of your choosing do the same for ***setup.exe***. [Video](https://user-images.githubusercontent.com/118314166/232385213-7b349401-1e53-4270-80bf-662506681746.mp4) for reference.
+1. Go to the [ZombieShooterSetup](ZombieShooterSetup) right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a location of your choosing do the same for ***setup.exe***. [Video](https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a-8559-4d326cc74f78.mp4) for reference.
 2. Then click on ***ZombieShooterSetup.msi*** right click on ***Download*** and then ***Save link as***. Place in a folder of your choosing repeat for ***Release/setup.exe***. [Video](https://user-images.githubusercontent.com/118314166/232386329-49e36901-3d79-455e-a689-d371df8ef32a.mp4) for reference.
 3. Then navigate to the folder you have placed both the ***ZombieShooterSetup.msi*** and the ***setup.exe*** run the ***setup.exe*** and choose the location where you want the game installed. [Video](https://user-images.githubusercontent.com/118314166/232390474-97baa562-d832-4b51-b6b3-4587808d85a1.mp4) for reference.
 4. Then simply navigate to the location you installed the game run ***ZombieShooter.exe*** which will run the game or navigate to the desktop where a shortcut called ***ZombieShooter*** will have been automatically created and double click on it to run the game.
@@ -30,3 +30,10 @@ All of the asset images I used are free and open source I am not a good artist s
   - [Low Level Zombie, Player Character, Ammo Icon](https://www.mooict.com/c-tutorial-create-a-zombie-survival-shooting-game-in-visual-studio/)
   - [Door and key Image](https://www.mooict.com/c-tutorial-make-a-multiple-level-game-in-windows-form-application/)
   - [Boss level Zombie](https://opengameart.org/content/animated-top-down-zombie)
+
+
+
+
+
+
+
