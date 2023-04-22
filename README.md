@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a
 https://user-images.githubusercontent.com/118314166/233804146-62898ed8-11e6-4e46-928d-0f38ebb560e9.mp4
 
 3. Then simply navigate to the location you installed the game run ***ZombieShooter.exe*** which will run the game or navigate to the desktop where a shortcut called ***ZombieShooter*** will have been automatically created and double click on it to run the game.
-### If it did not work
+### Installation issues
 If it did not install or work properly follow the steps again and ***MAKE SURE THESE ARE TRUE***
 - ***BOTH*** the ***ZombieShooterSetup.msi*** and ***setup.exe*** are in the same folder.
 - Run the ***setup.exe*** ***NOT*** the ***ZombieShooterSetup.msi***
