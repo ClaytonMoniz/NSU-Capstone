@@ -28,7 +28,7 @@ Which should have been automatically generated if the game is installed correctl
 If it did not install or work properly follow the steps again and ***MAKE SURE THESE ARE TRUE***
 - ***BOTH*** the ***ZombieShooterSetup.msi*** and ***setup.exe*** are in the same folder.
 - Run the ***setup.exe*** ***NOT*** the ***ZombieShooterSetup.msi***.
-- I you placed the setup files in the same folder you installed the game to make sure you ***run ZombieShooter.exe to start the game NOT setup.exe***.
+- I you placed the setup files in the same folder you installed the game to make sure you ***run ZombieShooter.exe to start the game NOT anything else***.
 ## Testing Information
 ### How testing was done
 - Testing was done using PyAutoGUI and by simply playing the game.
@@ -45,7 +45,7 @@ If it did not install or work properly follow the steps again and ***MAKE SURE T
 [Here](testing) is the folder containing all the images and the python file.
 ## Assets
 All of the asset images I used are free and open source I am not a good artist so this was the best thing for me to use.
-- Here are links to all the assets they can also be found in [this](Links_For_Assets) folder.
+- Here are links to all the assets the links can also be found in [this](Links_For_Assets) folder.
   - [Health Pickup Icon](https://fightswithbears.itch.io/2d-health-and-ammo-pickups)
   - [Higher Level Zombie](https://tokka.itch.io/top-down-basic-set)
   - [Low Level Zombie, Player Character, Ammo Icon](https://www.mooict.com/c-tutorial-create-a-zombie-survival-shooting-game-in-visual-studio/)
