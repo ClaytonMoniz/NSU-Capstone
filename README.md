@@ -13,7 +13,7 @@ Visual studio was used for developing the game and visual studio code was used f
 7. The [LICENSE](LICENSE) File contains the MIT license.
 ## Installation Guide
 This will take you step by step to install the game.
-1. Go to the [ZombieShooterSetup](ZombieShooterSetup) folder right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a location of your choosing do the same for ***setup.exe***.
+1. Go to the [ZombieShooterSetup](ZombieShooterSetup) folder right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a folder of your choosing do the same for ***setup.exe***.
 
 https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a-8559-4d326cc74f78.mp4
 
@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a
 
 https://user-images.githubusercontent.com/118314166/233804146-62898ed8-11e6-4e46-928d-0f38ebb560e9.mp4
 
-3. Then simply navigate to the location you installed the game run ***ZombieShooter.exe*** which will run the game or navigate to the desktop where a shortcut called ***ZombieShooter*** will have been automatically created and double click on it to run the game.
+3. Then simply navigate to the folder you installed the game run ***ZombieShooter.exe*** which will run the game or navigate to the desktop where a shortcut called ***ZombieShooter*** will have been automatically created and double click on it to run the game.
 ### Installation issues
 If you are unsure if the game is installed or working the easiset way to test this is to ***go to desktop and double click on the ZombieShooter shortcut***.
 Which should have been automatically generated if the game is installed correctly.
