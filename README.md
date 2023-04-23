@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/118314166/233804146-62898ed8-11e6-4e46
 ### Installation issues
 If you are unsure if the game is installed or working the easiset way to test this is to ***go to desktop and double click on the ZombieShooter shortcut***.
 Which should have been automatically generated if the game is installed correctly.
-If it did not install or work properly follow the steps again and ***MAKE SURE THESE ARE TRUE***
+If it did not install or work properly follow the install steps again and ***MAKE SURE THESE ARE TRUE***
 - ***BOTH*** the ***ZombieShooterSetup.msi*** and ***setup.exe*** are in the same folder.
 - Run the ***setup.exe*** ***NOT*** the ***ZombieShooterSetup.msi***.
-- I you placed the setup files in the same folder you installed the game to make sure you ***run ZombieShooter.exe to start the game NOT anything else***.
+- If you placed the setup files in the same folder you installed the game to make sure you ***run ZombieShooter.exe to start the game NOT anything else***.
