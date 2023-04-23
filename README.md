@@ -41,9 +41,9 @@ All of the asset images I used are free and open source I am not a good artist s
   - [Boss level Zombie](https://opengameart.org/content/animated-top-down-zombie)
 ## Installation Guide
 This will take you step by step to install the game.
-1. Go to the [ZombieShooterSetup](ZombieShooterSetup) folder right click on ***ZombieShooterSetup.msi*** and ***Save link as*** to a folder of your choosing do the same for ***setup.exe*** make sure they are ***both in the same folder***.
+1. Go to the [ZombieShooterSetup](ZombieShooterSetup) folder click on ***ZombieShooterSetup.msi*** then right click on download and ***Save link as*** to a folder of your choosing do the same for ***setup.exe*** make sure they are ***both in the same folder***.
 
-https://user-images.githubusercontent.com/118314166/233803866-08e7e589-822c-422a-8559-4d326cc74f78.mp4
+https://user-images.githubusercontent.com/118314166/233819996-ff75e33f-649b-4b03-8f73-d9d960702911.mp4
 
 2. Then navigate to the folder you have placed both the ***ZombieShooterSetup.msi*** and the ***setup.exe*** run the ***setup.exe*** and choose the folder where you want the game installed it does not have to be installed in the same folder the setup files are in. 
 
