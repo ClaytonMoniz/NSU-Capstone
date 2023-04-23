@@ -19,7 +19,7 @@ This section is a brief description of what the game is and how it plays as well
 7. The [LICENSE](LICENSE) File contains the MIT license.
 ## Testing Information
 ### How testing was done
-- Testing was done using PyAutoGUI and by simply playing the game.
+- Testing was done using PyAutoGUI in visual stuido code and by simply playing the game.
 - PyAutoGUI was only used to test inputs and buttons on the StartMenu, Information page, and first level.
 - No further testing was done with PyAutoGUI as the other forms shared the same structure and it was easy to test manually.
 ### Testing results
@@ -31,6 +31,8 @@ This section is a brief description of what the game is and how it plays as well
 - All interactions work
 
 [Here](testing) is the folder containing all the images and the python file used in testing.
+***IMPORTANT*** I did the testing on a 1440p monitor so if your monitor is a different resolution the images may not work.
+That is just how PyAutoGUI is it will have a hard time locating the image if the resolution is different.
 ## Assets
 All of the asset images I used are free and open source I am not a good artist so this was the best thing for me to use.
 - Here are links to all the assets the links can also be found in [this](Links_For_Assets) folder.
