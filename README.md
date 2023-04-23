@@ -1,6 +1,6 @@
 # NSU-Capstone - Zombie Shooter Game
 ## Description
-This is a brief description of what the game is and how it plays as well as what was used to make the game.
+This section is a brief description of what the game is and how it plays as well as what was used to make the game.
 - Short game where you fight zombies that get harder as you progress through the levels.
 - Collect the key that spawns to transition to the next level.
 - Collect ammo when you are our out to continue fighting.
